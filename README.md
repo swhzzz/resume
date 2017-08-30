@@ -47,6 +47,19 @@
 - 相关技术：HTML 5 + CSS3 + localStorage+ jQuery + SASS + Webpack
 - 收获：对SASS的编写以及Webpack的打包有了更深入的理解和运用
 
+### 组件
+[瀑布流懒加载](https://swhzzz.github.io/demos/waterfall/jq-lazyload-waterfall.html) [仓库地址](https://github.com/swhzzz/demos/blob/master/waterfall/jq-lazyload-waterfall.html)
+
+[轮播1](https://swhzzz.github.io/demos/carousel/index.html)
+[轮播2](https://swhzzz.github.io/demos/carousel/index2.html)
+[轮播3](https://swhzzz.github.io/demos/carousel/index3.html)
+[仓库地址](https://github.com/swhzzz/demos/tree/master/carousel)
+
+[返回顶部](https://swhzzz.github.io/demos/goTop/goTop.html)
+[仓库地址](https://github.com/swhzzz/demos/blob/master/goTop/goTop.html)
+
+[Tabs](https://swhzzz.github.io/demos/tabs/tabs.html) [仓库地址](https://github.com/swhzzz/demos/blob/master/tabs/tabs.html)
+
 ### 个人技能
 1.熟悉HTML和CSS以及页面的布局，能按照Web标准写出语义化的代码
 
