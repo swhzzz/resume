@@ -8,10 +8,8 @@
 ### 个人信息
 - 沈文豪/男/1994
 - 本科
-- 个人博客
-  - [简书](http://www.jianshu.com/u/49ecc37d1892)
-  - [hexo](https://swhzzz.github.io/hexo-blog)(8月20日后移步至hexo)
-- [Github](https://github.com/swhzzz)地址
+- [简书博客地址](http://www.jianshu.com/u/49ecc37d1892)
+- [Github地址](https://github.com/swhzzz)
 - 杭州
 
 ### 项目经验
@@ -22,7 +20,7 @@
 - 项目介绍：一个通过vue-cli搭建的写简历的工具
 - 功能：用户可以注册登录，添加修改个人信息，项目经验，学习经历，联系方式等内容，并且能动态观察到变化，支持预览功能，支持本地存储功能
 - 相关技术：本项目涉及Vue-cli快速搭建，LeanCloud用户登录，Vuex管理数据，SASS，Webpack模块管理，打包压缩静态资源,ES6，localStorage
-- 收获： 加深了vue组件化以及对vuex状态管理的理解，进一步理解了ES6
+- 收获： Vue组件化以及对Vuex状态管理的理解，进一步理解了ES6
 
 [Node.js便利贴](http://note.swhzzz.site/)
 
@@ -32,20 +30,29 @@
 - 相关技术：HTML 5 + CSS 3实现页面的布局及特效，SASS进行预编译，jQuery编写js，express搭建后台，Sequelize以及sqlite3实现数据库的增删改查，ejs模板引擎，以及Webpack打包资源
 - 收获：通过搭建一个完整的网站，对前后端交互有了比较清晰的理解和深入
 
-[Vue-todoList](https://swhzzz.github.io/vue-TodoList/)
+[React-TodoList](https://swhzzz.github.io/React-Todo/build/)
+[仓库地址](https://github.com/swhzzz/React-Todo)
+- 项目介绍：一个通过create-react-app搭建的React待办项目
+- 相关技术：HTML 5 + CSS 3 + React + ES6 +LeanCloud
+- 收获：对React组件化，无状态组件，组件通信有一定的了解
 
-[仓库地址](https://github.com/swhzzz/vue-TodoList)
-- 项目介绍：一个Vue的小项目，用来记录待办事件
-- 功能：用户可以在登录之后，添加删除待办事件
-- 相关技术：Vue+ES6+Webpack+LeanCloud
-- 收获：对Vue的一个基本了解，相关API的基本使用，LeanCloud管理用户数据
 
 [AcFun](https://swhzzz.github.io/Acfun/index.html)
 
 [仓库地址](https://github.com/swhzzz/Acfun)
-- 项目介绍：AcFun首页
-- 相关技术：HTML 5 + CSS3 + localStorage+ jQuery + SASS + Webpack
-- 收获：对SASS的编写以及Webpack的打包有了更深入的理解和运用
+- 项目介绍：一个带存储搜索记录的搜索框，轮播以及返回顶部的A站首页
+- 相关技术：HTML 5 + CSS3 + localStorage + jQuery + SASS + Webpack
+- 收获：对页面的布局SASS的编写以及Webpack的打包的理解和运用
+
+
+[Vue-TodoList](https://swhzzz.github.io/vue-TodoList/)
+
+[仓库地址](https://github.com/swhzzz/vue-TodoList)
+- 项目介绍：一个Vue的小项目，用来记录待办事件
+- 功能：用户可以在登录之后，添加删除标记待办事件
+- 相关技术：Vue + ES6 + Webpack + LeanCloud
+- 收获：对Vue的基本使用，生命周期有了大概的了解，以及LeanCloud作为后台管理用户数据
+
 
 ### 组件
 [瀑布流懒加载](https://swhzzz.github.io/demos/waterfall/jq-lazyload-waterfall.html) [仓库地址](https://github.com/swhzzz/demos/blob/master/waterfall/jq-lazyload-waterfall.html)
@@ -67,13 +74,19 @@
 
 3.熟悉原生JavaScript，熟悉闭包原型，Ajax，跨域，面向对象等，熟悉jQuery
 
-4.熟悉CSS预处理器SASS
+4.熟悉CSS预处理器SASS，熟练使用变量，嵌套，extend，计算
 
-5.熟悉Vue，知道双向绑定原理，生命周期，组件通信，MVVM架构模式
+5.熟悉Vue，理解双向绑定原理，生命周期，组件通信，MVVM架构模式
 
-6.熟悉Webpack的loaders，plugins进行模块打包
+6.了解React，组件通信，生命周期，了解虚拟DOM
 
-7.熟悉Linux一些基本命令行，熟悉npm和git
+7.了解Webpack，能用webpack进行一些常见的打包处理
+
+8.熟悉Linux一些基本命令行，熟悉npm和git
+
+9.熟练使用Chrome进行调试，能够快速定位bug; 熟练翻墙，寻找常见问题的解决方案
+
+10.英语4级，配合划词翻译能够阅读英文官方文档
 
 ### 个人评价
-本人对技术有着一颗较强的好奇心，面对新技术时，因难而上，有着较好的自学能力，逻辑能力，以及定位bug，解决问题能力；在团队合作方面，有良好的沟通能力，能顺利沟通，完成协作
+本人对技术有着一颗较强的好奇心，有着较强的自学能力，逻辑能力，以及定位bug，解决问题能力；在团队合作方面，有良好的沟通能力，能顺利沟通，完成协作
