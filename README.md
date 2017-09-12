@@ -43,6 +43,7 @@
 - 项目介绍：一个带存储搜索记录的搜索框，轮播以及返回顶部的A站首页
 - 相关技术：HTML 5 + CSS3 + localStorage + jQuery + SASS + Webpack
 - 收获：对页面的布局SASS的编写以及Webpack的打包的理解和运用
+- 缺点：由于图片是直接上传到Github，没有使用cdn加速，网页加载有点缓慢
 
 
 [Vue-TodoList](https://swhzzz.github.io/vue-TodoList/)
