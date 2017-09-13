@@ -8,9 +8,9 @@
 ### 个人信息
 - 沈文豪/男/1994
 - 本科
-- [简书博客地址](http://www.jianshu.com/u/49ecc37d1892)
-- [Github地址](https://github.com/swhzzz)
-- 杭州
+- 简书博客地址：http://www.jianshu.com/u/49ecc37d1892
+- Github地址：https://github.com/swhzzz
+- 期望城市：杭州
 
 ### 项目经验
 
@@ -25,9 +25,8 @@
 [Node.js便利贴](http://note.swhzzz.site/)
 
 [仓库地址](https://github.com/swhzzz/express-sticky-note)
-- 项目介绍：一个github第三方登录的Node.js便利贴
-- 功能：Github登录的用户可以增加修改删除便利贴
-- 相关技术：HTML 5 + CSS 3实现页面的布局及特效，SASS进行预编译，jQuery编写js，express搭建后台，Sequelize以及sqlite3实现数据库的增删改查，ejs模板引擎，以及Webpack打包资源
+- 项目介绍：一个Github第三方登录的Node.js便利贴，Github登录的用户可以增加修改删除便利贴
+- 相关技术：HTML 5 + CSS 3实现页面的布局及特效，SASS动态编写css，jQuery编写js，express搭建后台，Sequelize以及sqlite3实现数据库的增删改查，ejs模板引擎，以及Webpack打包资源
 - 收获：通过搭建一个完整的网站，对前后端交互有了比较清晰的理解和深入
 
 [React-TodoList](https://swhzzz.github.io/React-Todo/build/)
@@ -43,7 +42,7 @@
 - 项目介绍：一个带存储搜索记录的搜索框，轮播以及返回顶部的A站首页
 - 相关技术：HTML 5 + CSS3 + localStorage + jQuery + SASS + Webpack
 - 收获：对页面的布局SASS的编写以及Webpack的打包的理解和运用
-- 缺点：由于图片是直接上传到Github，没有使用cdn加速，网页加载有点缓慢
+- 缺点：由于图片是直接上传到Github，没有使用cdn加速，网页加载缓慢
 
 
 [Vue-TodoList](https://swhzzz.github.io/vue-TodoList/)
@@ -52,7 +51,7 @@
 - 项目介绍：一个Vue的小项目，用来记录待办事件
 - 功能：用户可以在登录之后，添加删除标记待办事件
 - 相关技术：Vue + ES6 + Webpack + LeanCloud
-- 收获：对Vue的基本使用，生命周期有了大概的了解，以及LeanCloud作为后台管理用户数据
+- 收获：对Vue的基本使用，生命周期有大概的了解，以及LeanCloud作为后台管理用户数据
 
 
 ### 组件
@@ -83,11 +82,9 @@
 
 7.了解Webpack，能用webpack进行一些常见的打包处理
 
-8.熟悉Linux一些基本命令行，熟悉npm和git
+8.了解Linux一些基本命令行，了解 npm git
 
-9.熟练使用Chrome进行调试，能够快速定位bug; 熟练翻墙，寻找常见问题的解决方案
-
-10.英语4级，配合划词翻译能够阅读英文官方文档
+9.熟练使用Chrome进行调试，能够快速定位bug; 熟练使用Stack Overflow，寻找常见问题的解决方案
 
 ### 个人评价
-本人对技术有着一颗较强的好奇心，有着较强的自学能力，逻辑能力，以及定位bug，解决问题能力；在团队合作方面，有良好的沟通能力，能顺利沟通，完成协作
+对技术有着一颗好奇心，有着较强的自学能力，逻辑能力，以及定位bug，解决问题能力；在团队合作方面，有良好的沟通能力，能顺利沟通，完成协作
