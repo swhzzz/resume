@@ -57,9 +57,8 @@
 ### 组件
 [瀑布流懒加载](https://swhzzz.github.io/demos/waterfall/jq-lazyload-waterfall.html) [仓库地址](https://github.com/swhzzz/demos/blob/master/waterfall/jq-lazyload-waterfall.html)
 
-[轮播1](https://swhzzz.github.io/demos/carousel/index.html)
-[轮播2](https://swhzzz.github.io/demos/carousel/index2.html)
-[轮播3](https://swhzzz.github.io/demos/carousel/index3.html)
+[无缝轮播](https://swhzzz.github.io/demos/carousel/index.html)
+[渐变轮播](https://swhzzz.github.io/demos/carousel/index3.html)
 [仓库地址](https://github.com/swhzzz/demos/tree/master/carousel)
 
 [返回顶部](https://swhzzz.github.io/demos/goTop/goTop.html)
