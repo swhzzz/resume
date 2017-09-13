@@ -7,8 +7,8 @@
 ### 个人信息
 - 沈文豪/男/1994
 - 本科
-- 简书博客地址：http://www.jianshu.com/u/49ecc37d1892
-- Github地址：https://github.com/swhzzz
+- 简书博客地址：[简书](http://www.jianshu.com/u/49ecc37d1892)
+- Github地址：[Github](https://github.com/swhzzz)
 - 期望城市：杭州
 
 ### 项目经验
