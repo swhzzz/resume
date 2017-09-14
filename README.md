@@ -71,21 +71,21 @@
 
 2.了解HTML5的新增标签和属性以及一些常用的CSS 3样式
 
-3.熟悉原生JavaScript，熟悉闭包，原型，Ajax，跨域，熟悉jQuery
+3.熟悉原生JavaScript，如闭包，原型，Ajax，跨域，了解ES6，熟悉jQuery
 
-4.了解ES6，如箭头函数，let，const，class等
+4.熟悉CSS预处理器SASS，如css变量，嵌套，extend，计算，熟悉iconfont
 
-5.熟悉CSS预处理器SASS，如css变量，嵌套，extend，计算，熟悉iconfont
+5.熟悉Vue，理解双向绑定原理，生命周期，组件通信，MVVM架构模式
 
-6.熟悉Vue，理解双向绑定原理，生命周期，组件通信，MVVM架构模式
+6.了解React，组件通信，生命周期，了解虚拟DOM
 
-7.了解React，组件通信，生命周期，了解虚拟DOM
+7.了解Webpack，能用webpack进行一些常见的打包处理
 
-8.了解Webpack，能用webpack进行一些常见的打包处理
+8.了解Linux一些基本命令行，了解 npm git
 
-9.了解Linux一些基本命令行，了解 npm git
-
-10.熟练使用Chrome进行调试，能够快速定位bug; 熟练使用Stack Overflow，寻找常见问题的解决方案
+9.熟练使用Chrome进行调试，能够快速定位bug; 熟练使用Stack Overflow，寻找常见问题的解决方案
 
 ### 个人评价
-对技术有着一颗好奇心，有着较强的自学能力，逻辑能力，以及定位bug，解决问题能力；在团队合作方面，有良好的沟通能力，能顺利沟通，完成协作
+- 对技术有着一颗好奇心，有着较强的自学能力，逻辑能力，以及定位bug，解决问题能力
+- 在团队合作方面，有良好的沟通能力，能顺利沟通
+- 不畏惧难题，迎难而上
