@@ -6,7 +6,7 @@
 
 ### 个人信息
 - 沈文豪/男/1994
-- 本科
+- 16届本科
 - 简书博客地址：[简书](http://www.jianshu.com/u/49ecc37d1892)
 - Github地址：[Github](https://github.com/swhzzz)
 - 期望城市：杭州
@@ -16,9 +16,8 @@
 [Vue在线简历编辑器](https://swhzzz.github.io/vue-resumer/dist/)
 
 [仓库地址](https://github.com/swhzzz/vue-resumer)
-- 项目介绍：一个通过vue-cli搭建的写简历的工具
-- 功能：用户可以注册登录，添加修改个人信息，项目经验，学习经历，联系方式等内容，并且能动态观察到变化，支持预览功能，支持本地存储功能
-- 相关技术：本项目涉及Vue-cli快速搭建，LeanCloud用户登录，Vuex管理数据，SASS，Webpack模块管理，打包压缩静态资源,ES6，localStorage
+- 项目介绍：一个通过vue-cli搭建的写简历的工具，用户可以注册登录，添加修改个人信息，项目经验，学习经历，联系方式等内容，并且能动态观察到变化，支持预览功能，支持本地存储功能
+- 相关技术：本项目涉及Vue-cli快速搭建，LeanCloud用户登录，Vuex管理数据，SASS，Webpack模块管理，打包压缩静态资源,ES6，localStorage保存更改的信息
 - 收获： Vue组件化以及对Vuex状态管理的理解，进一步理解了ES6
 
 [Node.js便利贴](http://note.swhzzz.site/)
@@ -31,7 +30,7 @@
 [React-TodoList](https://swhzzz.github.io/React-Todo/build/)
 
 [仓库地址](https://github.com/swhzzz/React-Todo)
-- 项目介绍：一个通过create-react-app搭建的React待办项目
+- 项目介绍：一个React在线应用，使用LeanCloud保存用户的信息，包含增加，修改删除待办，使用组件化的开发方式
 - 相关技术：HTML 5 + CSS 3 + React + ES6 +LeanCloud
 - 收获：对React组件化，无状态组件，组件通信有一定的了解
 
@@ -41,17 +40,16 @@
 [仓库地址](https://github.com/swhzzz/Acfun)
 - 项目介绍：一个带存储搜索记录的搜索框，轮播以及返回顶部的A站首页
 - 相关技术：HTML 5 + CSS3 + localStorage + jQuery + SASS + Webpack
-- 收获：对页面的布局SASS的编写以及Webpack的打包的理解和运用
+- 收获：对页面的布局SASS的编写有了一定的收获
 - 缺点：由于图片是直接上传到Github，没有使用cdn加速，网页加载缓慢
 
 
 [Vue-TodoList](https://swhzzz.github.io/vue-TodoList/)
 
 [仓库地址](https://github.com/swhzzz/vue-TodoList)
-- 项目介绍：一个Vue的小项目，用来记录待办事件
-- 功能：用户可以在登录之后，添加删除标记待办事件
+- 项目介绍：一个Vue待办项目
 - 相关技术：Vue + ES6 + Webpack + LeanCloud
-- 收获：对Vue的基本使用，生命周期有大概的了解，以及LeanCloud作为后台管理用户数据
+- 收获：对Vue的基本使用有了一些了解
 
 
 ### 组件
@@ -75,7 +73,7 @@
 
 4.熟悉CSS预处理器SASS，如css变量，嵌套，extend，计算，熟悉iconfont
 
-5.熟悉Vue，理解双向绑定原理，生命周期，组件通信，MVVM架构模式
+5.熟悉Vue，理解双向绑定原理，生命周期，组件通信
 
 6.了解React，组件通信，生命周期，了解虚拟DOM
 
