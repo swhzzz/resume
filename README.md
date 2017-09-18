@@ -1,5 +1,5 @@
 ### 个人信息
-- 沈文豪 | 男 | 1994
+- 沈文豪 / 男 / 1994
 - 16届本科
 - 简书博客地址：[简书](http://www.jianshu.com/u/49ecc37d1892)
 - Github地址：[Github](https://github.com/swhzzz)
@@ -18,15 +18,15 @@
 
 3.熟悉jQuery，能用jQuery开发一些常见的页面效果，能将常见的效果封装成组件，例如瀑布流组件，轮播组件，Tab组件
 
-5.熟悉Vue，能用vue开发一些小项目，了解vue的双向绑定原理，生命周期以及组件之间的通信，能用vue的transition组件设置一些基本动画，了解Vuex，能够用Vuex统一管理数据
+4.熟悉Vue，能用vue开发一些小项目，了解vue的双向绑定原理，生命周期以及组件之间的通信，能用vue的transition组件设置一些基本动画，了解Vuex，能够用Vuex统一管理数据
 
-6.了解React，JSX语法，setState，了解class声明组件和函数式声明组件区别以及React组件通信，生命周期，了解虚拟DOM
+5.了解React，JSX语法，setState，了解class声明组件和函数式声明组件区别以及React组件通信，生命周期，了解虚拟DOM
 
-7.了解Webpack，能用Webpack进行一些常见的打包处理
+6.了解Webpack，能用Webpack进行一些常见的打包处理
 
-8.熟悉WebStorm以及VSCode等编辑器，熟悉git和npm等前端相关工具的使用
+7.熟悉WebStorm以及VSCode等编辑器，熟悉git和npm等前端相关工具的使用
 
-9.熟练使用Chrome进行调试，能够快速定位bug; 熟练使用Stack Overflow，寻找常见问题的解决方案
+8.熟练使用Chrome进行调试，能够快速定位bug; 熟练使用Stack Overflow，寻找常见问题的解决方案
 
 
 ### 项目经验
